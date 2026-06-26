@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Gangotri Gupta
+<img width="1650" height="902" alt="image" src="https://github.com/user-attachments/assets/1a7334dd-59b7-440e-8a5a-5fbad762e456" /># 👋 Hi, I'm Gangotri Gupta
 
 ### Frontend Developer | React.js | JavaScript | Redux Toolkit | C++ | AI & ML Student
 
@@ -111,11 +111,12 @@
 * Improve React expertise
 
 ---
-
 ## 📫 Connect With Me
 
-* 📧 Email: **[gangotrigupta61@gmail.com](mailto:gangotrigupta61@gmail.com)**
-* 💼 LinkedIn: *Add your LinkedIn profile link here*
+- 📧 Email: [gangotrigupta61@gmail.com](mailto:gangotrigupta61@gmail.com)
+- 💼 LinkedIn: [Gangotri Gupta](https://www.linkedin.com/in/gangotrigupta61/)
+- 💻 GitHub: [gangotrigupta-61](https://github.com/gangotrigupta-61)
+
 
 ---
 
