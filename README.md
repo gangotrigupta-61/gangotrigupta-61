@@ -1,4 +1,4 @@
-<img width="1650" height="902" alt="image" src="https://github.com/user-attachments/assets/1a7334dd-59b7-440e-8a5a-5fbad762e456" /># 👋 Hi, I'm Gangotri Gupta
+# 👋 Hi, I'm Gangotri Gupta
 
 ### Frontend Developer | React.js | JavaScript | Redux Toolkit | C++ | AI & ML Student
 
