@@ -1,211 +1,122 @@
-```markdown
-<!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=250&section=header&text=Gangotri%20Gupta&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20|%20React.js%20|%20JavaScript%20|%20DSA%20Enthusiast&descAlignY=58" />
-</p>
+# 👋 Hi, I'm Gangotri Gupta
 
-<h1 align="center">Hi 👋, I'm Gangotri Gupta</h1>
-
-<h3 align="center">
-Frontend Developer • React.js • JavaScript • Redux Toolkit • C++ • AI & ML Student
-</h3>
-
-<p align="center">
-Passionate about building modern, responsive, and scalable web applications.
-</p>
+### Frontend Developer | React.js | JavaScript | Redux Toolkit | C++ | AI & ML Student
 
 ---
 
 ## 🌸 About Me
 
-🎓 Third-year B.Tech student specializing in **Computer Science (AI & ML)**
-
-💻 Passionate about **Frontend Development**
-
-🌱 Currently learning **Backend Development & Full Stack Development**
-
-⚡ Strong interest in **React Ecosystem, UI Development, and DSA**
-
-🚀 Looking for **Frontend Developer Internship Opportunities**
+* 🎓 Third-year B.Tech student specializing in Computer Science (AI & ML)
+* 💻 Passionate about Frontend Development
+* 🌱 Currently learning Backend Development and Full Stack Development
+* 🚀 Interested in building responsive and user-friendly web applications
+* 📚 Regularly practicing Data Structures and Algorithms in C++
+* 🎯 Looking for Frontend Developer Internship opportunities
 
 ---
 
-## 🌐 Connect With Me
+## 🛠️ Tech Stack
 
-<p align="left">
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+**Languages**
 
-<a href="mailto:gangotrigupta61@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
+* C++
+* JavaScript
+* HTML
+* CSS
 
-<a href="YOUR_PORTFOLIO">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-</p>
+**Frontend**
 
----
+* React.js
+* Redux Toolkit
+* React Router
+* Tailwind CSS
 
-# 💻 Tech Stack
+**Backend (Learning)**
 
-### Languages
+* Node.js
+* Express.js
 
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,js,html,css" />
-</p>
+**Database**
 
-### Frontend
+* Appwrite
+* MongoDB (Learning)
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,redux,tailwind,vite" />
-</p>
+**Tools**
 
-### Backend (Learning)
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### Database & Cloud
-
-<p>
-<img src="https://skillicons.dev/icons?i=appwrite,firebase,mongodb" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
+* Git
+* GitHub
+* VS Code
+* Postman
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-### 📝 Blog Application
+### 📝 Blog App
 
-✔ User Authentication
+* Authentication with Appwrite
+* CRUD Operations
+* React Router
+* Redux Toolkit
+* Responsive Design
 
-✔ CRUD Operations
+### ✅ React Todo
 
-✔ Appwrite Backend
+* Task Management
+* React Hooks
+* Responsive UI
 
-✔ Redux Toolkit
+### 📚 Redux Toolkit Todo
 
-✔ React Router
+* Global State Management
+* CRUD Features
 
-✔ Responsive UI
+### 🌐 React Router Project
 
----
-
-### ✅ Redux Toolkit Todo
-
-- Global State Management
-- React Hooks
-- CRUD Features
-
----
-
-### 📚 React Router Application
-
-- Dynamic Routing
-- Nested Routes
-- Protected Routes
+* Nested Routes
+* Protected Routes
 
 ---
 
-### ⚡ Context API Project
+## 📊 GitHub Stats
 
-- React Context
-- Global Theme
-- State Sharing
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gangotrigupta-61\&show_icons=true\&theme=tokyonight)
 
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=gangotrigupta-61&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gangotrigupta-61&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gangotrigupta-61\&layout=compact\&theme=tokyonight)
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=gangotrigupta-61&theme=tokyonight&hide_border=true"/>
-
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=gangotrigupta-61\&theme=tokyonight)
 
 ---
 
-# 🏆 GitHub Trophies
+## 🌱 Currently Learning
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=gangotrigupta-61&theme=algolia&no-frame=true&margin-w=15"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gangotrigupta-61&theme=tokyo-night"/>
-
-</p>
+* Node.js
+* Express.js
+* MongoDB
+* Backend Development
+* Advanced React
 
 ---
 
-# 💡 Currently Learning
+## 🎯 Goals
 
-- Advanced React
-- Node.js
-- Express.js
-- MongoDB
-- System Design Basics
-- Data Structures & Algorithms
-
----
-
-# 📌 Goals for 2026
-
-✅ Frontend Internship
-
-✅ Build Full Stack Projects
-
-✅ 500+ DSA Problems
-
-✅ Master React Ecosystem
-
-✅ Open Source Contributions
+* Secure a Frontend Internship
+* Build Full Stack Projects
+* Strengthen DSA skills
+* Contribute to Open Source
+* Improve React expertise
 
 ---
 
-# ✨ Quote
+## 📫 Connect With Me
 
-> "Consistency beats intensity. Build something every day."
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=gangotrigupta-61&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-
-</p>
+* 📧 Email: **[gangotrigupta61@gmail.com](mailto:gangotrigupta61@gmail.com)**
+* 💼 LinkedIn: *Add your LinkedIn profile link here*
 
 ---
 
-<p align="center">
-⭐ Thanks for visiting my profile! ⭐
-</p>
-```
+> **"Code. Learn. Build. Repeat."** 🚀
