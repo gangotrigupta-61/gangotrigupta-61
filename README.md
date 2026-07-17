@@ -98,24 +98,14 @@ A web application that helps users report lost and found items, perform real-tim
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gangotrigupta-61&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gangotrigupta-61&show_icons=true&theme=github_dark&cache_seconds=1800" />
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gangotrigupta-61&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gangotrigupta-61&layout=compact&theme=github_dark&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=gangotrigupta-61&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=gangotrigupta-61&theme=github-dark&cache_seconds=1800" />
 </p>
-
----
-
-# 📈 LeetCode Statistics
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/gangotrigupta61?theme=dark&font=Karma&ext=contest"/>
-</p>
-
----
 
 # 🏆 GitHub Trophies
 
