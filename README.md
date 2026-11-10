@@ -1,6 +1,6 @@
 # Hi, I'm Gangotri Gupta 👋
 
-**Full Stack Developer** · MERN Stack · Next.js · TypeScript · Open to SDE Internships
+**Full Stack Developer** · MERN Stack · React.js · JavaScript · Next.js · TypeScript · Open to SDE Internships
 
 ---
 
